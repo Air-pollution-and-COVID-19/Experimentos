@@ -1,0 +1,31 @@
+							<li>
+								<a href="#products" id="tmNavLink3" class="scrolly" data-bg-img="fondo7.jpeg" data-page="#tm-section-3">
+									<i class="fas fa-map tm-nav-fa-icon"></i>
+									<span>Investigación</span>
+								</a>
+							</li>							
+							<li>
+								<a href="#company" id="tmNavLink4" class="scrolly" data-bg-img="constructive_bg_03.jpg" data-page="#tm-section-4">
+									<i class="fas fa-users tm-nav-fa-icon"></i>
+									<span>Python y Colab</span>
+								</a>
+							</li>
+							<li>
+								<a href="#contact" class="scrolly" data-bg-img="constructive_bg_04.jpg" data-page="#tm-section-5">
+									<i class="fas fa-comments tm-nav-fa-icon"></i>
+									<span>Github Pages</span>
+								</a>
+							</li>
+							<li>
+								<a href="#contact" class="scrolly" data-bg-img="constructive_bg_04.jpg" data-page="#tm-section-6" data-page-type="carousel">
+									<i class="fas fa-comments tm-nav-fa-icon"></i>
+									<span>Infografías</span>
+								</a>
+							</li>
+							<li>
+								<a href="#contact" class="scrolly" data-bg-img="constructive_bg_04.jpg" data-page="#tm-section-7">
+									<i class="fas fa-comments tm-nav-fa-icon"></i>
+									<span>Agradecimientos</span>
+								</a>
+							<li>
+							</li>
